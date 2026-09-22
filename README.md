@@ -122,7 +122,6 @@ http://127.0.0.1:5000
 - 📅 Due Dates
 - ⭐ Task Priorities
 - 📂 Categories
-- 📊 Dashboard & Statistics
 - ☁️ Cloud Database Support
 - 📱 Progressive Web App (PWA)
 
